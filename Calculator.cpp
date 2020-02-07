@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std
 
-void main()           //beginning of main function, execution starts here
+void main()          //beginning of main function, execution starts here
 {
 int a,b,result;
 char choice;     //declaration of variables
